@@ -1,0 +1,109 @@
+{
+  "resturant": [
+    {
+      "id": 1,
+      "name": "namkinchai",
+      "address": "fiazabad",
+      "email": "namkinchai@gmail.com",
+      "rating": "4.5"
+    },
+    {
+      "id": 3,
+      "name": "wbc",
+      "address": "gilgit",
+      "email": "namkinchai@gmail.com",
+      "rating": "4.9"
+    },
+    {
+      "id": 4,
+      "name": "chat gpt cafa",
+      "address": "amirica",
+      "email": "namkinchai@gmail.com",
+      "rating": "4.5"
+    },
+    {
+      "id": 5,
+      "name": "gpt cafa",
+      "address": "mirica",
+      "email": "namkinchai@gmail.com",
+      "rating": "4.1"
+    },
+    {
+      "id": 6,
+      "name": " cafa",
+      "address": "mirica",
+      "email": "namkinchai@gmail.com",
+      "rating": "4.4"
+    },
+    {
+      "name": "sdaf",
+      "email": "asdf",
+      "address": "asdf",
+      "rating": "asfd",
+      "id": 7
+    },
+    {
+      "name": "svassd",
+      "email": "asdv",
+      "address": "asdf",
+      "rating": "asdfa",
+      "id": 8
+    },
+    {
+      "name": "sdaf",
+      "email": "asfd",
+      "address": "asdf",
+      "rating": "sdafa",
+      "id": 9
+    },
+    {
+      "id": 12,
+      "name": "wbc",
+      "address": "fiazabad",
+      "email": "namkinchai@gmail.com",
+      "rating": "4.9"
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "rating": "",
+      "id": 13
+    },
+    {
+      "name": "mob",
+      "email": "mob@gmail.com",
+      "address": "nalter",
+      "rating": "4.2",
+      "id": 14
+    },
+    {
+      "name": "aliaaasajs",
+      "email": "amsdnas",
+      "address": "ans",
+      "rating": "asndjka",
+      "id": 15
+    },
+    {
+      "id": 19,
+      "name": "gpt cafa",
+      "address": "mirica",
+      "email": "namkinchai@gmail.com",
+      "rating": "4.1"
+    },
+    {
+      "id": 20,
+      "name": "namkinchai",
+      "address": "fiazabad",
+      "email": "namkinchai@gmail.com",
+      "rating": "4.5"
+    },
+    {
+      "id": 112,
+      "name": "wbc",
+      "address": "gilgit",
+      "email": "namkinchai@gmail.com",
+      "rating": "4.7"
+    }
+  ]
+}
